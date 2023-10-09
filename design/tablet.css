@@ -2,7 +2,7 @@
     .section-1{
         width:83.4em;
         height:70em;
-        background-image: url("/assets/photos/Rectangle\ 30.png");
+        background-image: url("../assets/photos/Rectangle\ 30.png");
         background-size: cover;
         background-repeat: no-repeat;
     }
