@@ -1,0 +1,72 @@
+@media all and (min-width:1440px){
+    .section-1{
+        width:144em;
+        height:70em;
+        background-image: url("/assets/photos/Rectangle11.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .heading{
+        width:119em;
+        height:18.5em;
+        margin-left:125px;
+    }
+    .header-list{
+        width:51.2em;
+        height:3.7em;
+    }
+    .text-1{
+        width:1046px;
+        height:92px;
+        margin-left:6em;
+    }
+    .section-2{
+        width:144em;
+        height:61em;
+    }
+    .nature{
+        display:inline-block;
+        width:31.5em;
+        height:32em;
+    }
+    .photos{
+        width:118.9em;
+    }
+    .rifs{
+        width:31.5em;
+        height:32em;
+    }
+    .boats{
+        width:31.5em;
+        height:32em;
+    }
+    .section-3{
+        width:144em;
+        height:61em;
+    }
+    .sea{
+        width:56.5em;
+        height:32em;
+    }
+    .text-box{
+        width:56.5em;
+        height:32em;
+        padding-left:95px;
+    }   
+    .text-2{
+        width:347px;
+        height:126px;
+    }
+    .photos-1{
+        width:119em;
+        height:32em;
+    }
+    .p-text-2{
+        width:347px;
+        height: 126px;
+    }
+    footer{
+        width:144em;
+        height:21.7em;
+    }
+}

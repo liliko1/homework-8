@@ -1,0 +1,140 @@
+@font-face {
+    font-family: "tattoo";
+    src: url(/assets/fonts/MiltonianTattoo-Regular.ttf);
+}
+@font-face {
+    font-family:"gentium" ;
+    src: url(/assets/fonts/GentiumBookPlus-Regular.ttf);
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "gentium", coursive;
+}
+html{
+    width:10px;
+    height:10px;
+    font-size: 10px;
+    text-align: center;
+}
+.section-1{
+    width:48em;
+    height:69.6em;
+    background-image: url("/assets/photos/Rectangle-35.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading{
+    width:42em;
+    height:10.8em;
+    padding-top:32px;
+    margin-left:30px;
+    margin-bottom: 408px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width:49px;
+    height:76px;
+    font-family: "tattoo", coursive;
+    font-weight: 400;
+    font-size: 6.4em;
+    color: white;
+}
+.text-1{
+    width:420px;
+    height:84px;
+    font-weight: 700;
+    font-size: 2.4em;
+    color:rgba(192, 180, 180, 1);
+    margin-left:1em;
+}
+.section-2{
+    width:48em;
+    height:141.8em;
+    padding-left:1em;
+    background-color:rgba(42, 38, 38, 1) ;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.article{
+    width:212px;
+    height:42px;
+    font-weight: 400;
+    font-size: 3.6em;
+    color: rgba(255, 255, 255, 1);
+}
+.boat{
+    width:42em;
+    height:40em;
+}
+.rifs{
+    width:42em;
+    height:40em;
+}
+.nature{
+    width:42em;
+    height:40em;
+}
+.section-3{
+    width:48em;
+    height:76em;
+    background-color:rgba(11, 10, 10, 1) ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.about{
+    width:109px;
+    height:42px;
+    font-weight: 400;
+    font-size: 3.6em;
+    color:white
+}
+.sea{
+    width:42em;
+    height:28em;
+}
+.text-box{
+    width:42em;
+    height:28em;
+    background-color: rgba(142, 139, 139, 1);
+    padding-left:60px;
+    padding-top:64px;
+    text-align: left;
+}
+.text-2{
+    width:300px;
+    height:99px;
+    font-weight: 400;
+    font-size: 1.6em;
+    color:white;
+}
+footer{
+    width:48em;
+    height: 9em;
+    background-color:rgba(42, 38, 38, 1) ;
+    padding-left:159px;
+    padding-top:30px;
+}
+.soc-icons{
+    width:16.2em;
+    height:3em;
+    display:flex;
+    justify-content: space-between;
+}
+.header-nav{
+    display:none;
+}
+.footer-logo{
+    display:none;
+}
+
+
+
+   

@@ -1,0 +1,79 @@
+@media all and (min-width:1024px){
+    .section-1{
+        width:102.4em;
+        height:70em;
+    }
+    .heading{
+        width:90em;
+        height:15.3em;
+        margin-bottom: 355px;
+    }
+    .logo{
+        width:99px;
+        height:153px;
+        font-size: 12.8em;
+    }
+    .burger-icon{
+        display: none;
+    }
+    ul, li{
+        list-style-type: none;
+    }
+    a{
+        text-decoration: none;
+        color:white;
+    }
+    .header-nav{
+        display:inline-block;
+    }
+    .header-list{
+        width:47em;
+        height:4.8em;
+        display:flex;
+        justify-content: space-between;
+    }
+    .header-list-item{
+        font-weight: 700;
+        font-size: 3.2em;
+    }
+    .text-1{
+        width:890px;
+        height:138px;
+        font-size: 4em;
+        margin-left:2em;
+    }
+    .section-2{
+        width:102.4em;
+        height:61em;
+    }
+    .section-3{
+        width:102.4em;
+        height:61em;
+    }
+    .text-box{
+        width:40em;
+        height:32em;
+    }
+    .text-2{
+        font-size: 1.8em;
+        width:300px;
+        height:147px;
+    }
+    footer{
+        width:102.4em;
+        height:21.7em;
+        display:flex;
+        justify-content: space-around;
+        align-items: baseline;
+        
+    }
+    .footer-logo{
+        display:inline-block;
+        font-family: "tattoo", coursive;
+        font-weight: 400;
+        color: white;
+        width:99px;
+        height:153px;
+        font-size: 12.8em;
+    }
+}
